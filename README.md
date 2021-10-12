@@ -58,6 +58,7 @@
   - Jenkins
     - pipeline
   - ConcourseCI
+  - Ansible
 - Adobe
   - XD
   - Illustrator
